@@ -14,7 +14,7 @@ import java.sql.DriverManager;
  */
 public class QLPK {
     public static void main(String[] args) {
-        new thmBN();
+        new ThemPKBFrm();
     }
     
 }
